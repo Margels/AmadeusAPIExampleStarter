@@ -70,26 +70,18 @@ final class Constants {
     
     // MARK: - GET Requests
     
-    // GET without mapping response
     // TODO 1
-    
-    // GET mapping response
-    // TODO 2
     
     
     
     // MARK: - POST Requests
     
-    // POST without mapping response
-    // TODO 3
+    // TODO 2
     
-    // POST without mapping response
-    // TODO 4
 
     
     // MARK: - Alamofire
     
-    // GET with Alamofire
-    // TODO 5
+    // TODO 3
     
 }
